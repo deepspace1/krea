@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Abstract colorful waves",
+      "imageUrl": "https://picsum.photos/seed/krea1/500/500",
+      "imageHint": "abstract colorful"
+    },
+    {
+      "id": "2",
+      "description": "Futuristic city skyline",
+      "imageUrl": "https://picsum.photos/seed/krea2/500/500",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "3",
+      "description": "Portrait of a robot",
+      "imageUrl": "https://picsum.photos/seed/krea3/500/500",
+      "imageHint": "robot portrait"
+    },
+    {
+      "id": "4",
+      "description": "Surreal landscape with floating islands",
+      "imageUrl": "https://picsum.photos/seed/krea4/500/500",
+      "imageHint": "surreal landscape"
+    },
+    {
+      "id": "5",
+      "description": "A cat in a spacesuit",
+      "imageUrl": "https://picsum.photos/seed/krea5/500/500",
+      "imageHint": "cat spacesuit"
+    },
+    {
+      "id": "6",
+      "description": "Bioluminescent forest",
+      "imageUrl": "https://picsum.photos/seed/krea6/500/500",
+      "imageHint": "bioluminescent forest"
+    },
+    {
+      "id": "7",
+      "description": "Steampunk airship",
+      "imageUrl": "https://picsum.photos/seed/krea7/500/500",
+      "imageHint": "steampunk airship"
+    },
+    {
+      "id": "8",
+      "description": "A dragon made of crystals",
+      "imageUrl": "https://picsum.photos/seed/krea8/500/500",
+      "imageHint": "crystal dragon"
+    },
+    {
+      "id": "9",
+      "description": "Underwater ancient city",
+      "imageUrl": "https://picsum.photos/seed/krea9/500/500",
+      "imageHint": "underwater city"
+    },
+    {
+      "id": "10",
+      "description": "A warrior with glowing armor",
+      "imageUrl": "https://picsum.photos/seed/krea10/500/500",
+      "imageHint": "glowing armor"
+    }
+  ]
+}
